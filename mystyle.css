@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: #D1F2EB;   
+    background-color: #B7669D;   
 }
 
 h1 {
@@ -38,6 +38,12 @@ section {
 }
 
 img {
-	  max-width: 100%; 
-	margin: 10px auto; 
+	  height: 100px;
+  width: 500px; 
+}
+
+div {
+  height: 100px;
+  width: 500px;
+  background-color: powderblue;
 }
