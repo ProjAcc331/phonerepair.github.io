@@ -1,1 +1,43 @@
+body {
+    margin: 0;
+    background-color: #D1F2EB;   
+}
 
+h1 {
+	 font-family: "Optima", serif;  
+	  font-size: 54px; 
+    text-align: center; 
+     color: #CB4335;  
+}
+
+h2 {
+	  font-family: Arial, sans-serif; 
+	 color: #5F6A6A; 
+	  text-align:center; 
+	margin: 0;
+}
+
+h3 {
+	  color: #F39C12; 
+	  font-size: 42px;
+	 text-align: center;  
+	margin: 0;
+}
+
+p {
+	 font-family: Arial, sans-serif;  
+	 color: #5F6A6A;  
+}
+
+section {
+	 background-color: white;
+	 width:90%;  
+	  padding: 30px; 
+	  margin: 15px auto; 
+	box-sizing: border-box;
+}
+
+img {
+	  max-width: 100%; 
+	margin: 10px auto; 
+}
