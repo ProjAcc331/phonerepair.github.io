@@ -27,6 +27,7 @@ h3 {
 p {
 	 font-family: Arial, sans-serif;  
 	 color: #5F6A6A;  
+	text-align: center;
 }
 
 section {
@@ -35,15 +36,18 @@ section {
 	  padding: 30px; 
 	  margin: 15px auto; 
 	box-sizing: border-box;
+	align: center;
 }
 
 img {
 	  height: 100px;
   width: 500px; 
+	align: center;
 }
 
 div {
   height: 400px;
   width: 600px;
   background-color:#4A3343;
+	align: center;
 }
